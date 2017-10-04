@@ -118,6 +118,15 @@ figcaption {
   line-height: 0;
 }
 
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background: white;
+  z-index: 1;
+}
+
 /*///// MEDIA //////*/
 
 img, video, audio {
